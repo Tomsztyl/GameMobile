@@ -1,6 +1,6 @@
 # GameMobile
-This is a game made by Unity/Mobile/PhpMyAdmin/PHP
-👀 If you are interested in what the project looks like, see below:
+-This is a game made by Unity/Mobile/PhpMyAdmin/PHP
+-👀 If you are interested in what the project looks like, see below:
 
 Authention:
 
