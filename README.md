@@ -1,5 +1,7 @@
 # GameMobile
  This is a game made by Unity/Mobile/PhpMyAdmin/PHP
+ 
+ Unity Version: 2019.2.8f1
 
 -👀 If you are interested in what the project looks like, see below:
 
